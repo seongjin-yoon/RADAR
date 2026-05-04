@@ -477,23 +477,6 @@ radar/
 - [ ] **Visual SLAM** — 카메라 기반 SLAM
 - [ ] **SDV 성능 향상** — 더 빠르고 안정적인 자율주행
 
----
-
-## 💬 팀원 소감
-
-> **윤성진 (SLAM)**  
-> 실시간 SLAM을 직접 구현하면서 센서 노이즈, TF 지연, 네트워크 상태 등 다양한 변수들이 결과에 큰 영향을 미친다는 것을 체감했습니다. 시스템 전체를 안정적으로 통합하는 것의 중요성을 배웠습니다.
-
-> **배현규 (AI Perception)**  
-> 학습 데이터보다 테스트 데이터의 수집이 더 중요하다는 것을 깨달았습니다. 추후 더 많은 자료 조사를 통해 시스템 퀄리티를 높여보고 싶습니다.
-
-> **안형준 (Overall Development)**  
-> 100차례가 넘는 테스트 주행을 통해 파라미터와 알고리즘을 세밀하게 조정했습니다. 코드 구현도 중요하지만, 실제 주행 테스트를 통한 세부 조정이 매우 중요하다는 것을 느꼈습니다.
-
-> **박상호 (Simul UI/UX)**  
-> SLAM부터 자율주행, Qt UI 통합, 객체 탐지까지 전체 ROS2 환경에서 작업하며 SW·HW 문제 해결 및 반복 테스트를 통한 데이터 안정화 과정에서 많은 것을 배웠습니다.
-
----
 
 ## 📄 License
 
@@ -503,5 +486,5 @@ This project is licensed under the MIT License.
 
 <p align="center">
   <strong>RADAR</strong> — Risk Aware Detection And Recognition<br>
-  Intel 자율주행 9기 | 2026.04
+  Intel 9기 | 2026.04
 </p>
