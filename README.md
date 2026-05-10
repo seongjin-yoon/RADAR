@@ -156,8 +156,7 @@ bash ~/run_rviz.sh
 ## 🤖 AI · Perception
 
 ### YOLO 학습 과정
-#### 수집 데이터
-<img src="assets/yolo_data_img.png" width="991" height="753"/>
+
 
 | 단계 | 데이터셋 | Soldier mAP50 | Tank mAP50 | mAP60 |
 |:---:|:---:|:---:|:---:|:---:|
@@ -165,6 +164,9 @@ bash ~/run_rviz.sh
 | 2차 (직접 수집, 525장) | 직접 촬영 | 0.835 | 0.895 | 0.865 |
 | **KD 적용 (YOLO11n KD)** | **직접 촬영** | **0.862** | **0.917** | **0.889** |
 | YOLO11m (참고용) | 직접 촬영 | 0.879 | 0.927 | 0.904 |
+
+#### 수집 데이터
+<img src="assets/yolo_data_img.png" width="991" height="753"/>
 
 ### Knowledge Distillation
 
