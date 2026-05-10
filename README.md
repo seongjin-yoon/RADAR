@@ -468,10 +468,6 @@ radar/
 - [ ] **SDV 성능 향상** — 더 빠르고 안정적인 자율주행
 
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 <p align="center">
