@@ -156,6 +156,8 @@ bash ~/run_rviz.sh
 ## 🤖 AI · Perception
 
 ### YOLO 학습 과정
+#### 수집 데이터
+<img src="assets/yolo_data_image.png" width="991" height="753"/>
 
 | 단계 | 데이터셋 | Soldier mAP50 | Tank mAP50 | mAP60 |
 |:---:|:---:|:---:|:---:|:---:|
