@@ -215,11 +215,7 @@ Depth Camera의 부하·노이즈 문제를 해결하기 위해 ML 기반 거리
 
 ## 🖥️ Qt 전술 HUD
 
-| Qt HUD 실행 화면 | 실제 주행 환경 |
-|:---:|:---:|
-| <img src="assets/qt_hud.png" width="400"/> | <img src="assets/demo_field.jpg" width="400"/> |
-| **SLAM 맵 생성 결과** | **YOLO 탐지 결과** |
-| <img src="assets/slam_map.png" width="400"/> | <img src="assets/yolo_detection.png" width="400"/> |
+<img src="assets/qt_hud.png" width="600"/>
 
 **HUD 기능 목록**
 
