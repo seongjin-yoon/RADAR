@@ -215,26 +215,11 @@ Depth Camera의 부하·노이즈 문제를 해결하기 위해 ML 기반 거리
 
 ## 🖥️ Qt 전술 HUD
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  [ TACTICAL COMBAT HUD ]    TURTLEBOT3 BURGER        BATT: 11.4V│
-├──────────────┬──────────────────────────┬───────────────────────┤
-│  RADAR SCOPE │   YOLO BBOX COMPRESSED   │  COMPASS              │
-│              │                          │     (방향각 실시간)    │
-│  (LiDAR 기반 │   (카메라 실시간 영상     │                       │
-│   실시간     │    + YOLO bbox 오버레이)  ├───────────────────────┤
-│   스캔 시각화)│                          │  LIDAR MAP /map       │
-│              │                          │  (SLAM 점유 격자 지도) │
-├──────────────┤                          │                       │
-│ENEMY POSITIONS│                         │                       │
-│  (적 탐지 수 │                          │                       │
-│   + 좌표)    │                          │                       │
-├──────────────┴──────────────────────────┴───────────────────────┤
-│  linearX: 0%    [▲] [■] [▶]    angularZ: 0%                     │
-│                 [◀]    [▶]                                       │
-│                      TELEOP                                      │
-└─────────────────────────────────────────────────────────────────┘
-```
+| Qt HUD 실행 화면 | 실제 주행 환경 |
+|:---:|:---:|
+| <img src="assets/qt_hud.png" width="400"/> | <img src="assets/demo_field.jpg" width="400"/> |
+| **SLAM 맵 생성 결과** | **YOLO 탐지 결과** |
+| <img src="assets/slam_map.png" width="400"/> | <img src="assets/yolo_detection.png" width="400"/> |
 
 **HUD 기능 목록**
 
