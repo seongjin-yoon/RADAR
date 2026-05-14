@@ -276,13 +276,13 @@ Depth Camera의 부하·노이즈 문제를 해결하기 위해 ML 기반 거리
 
 ### Robotics & Navigation
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros)
-- SLAM Toolbox, TF2, RViz2, Nav2, Gazebo
+- SLAM Toolbox, RViz2, Nav2, Gazebo
 
 ### AI & Perception
 ![YOLO](https://img.shields.io/badge/YOLO-v11-purple)
 - Ultralytics YOLO11, NCNN (경량화), Roboflow (데이터셋)
-- XGBoost (Depth Estimation), OpenCV
-- Knowledge Distillation
+- XGBoost (Depth Estimation)
+
 
 ### UI
 - Qt5 (전술 HUD)
