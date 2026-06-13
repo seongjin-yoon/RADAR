@@ -1,5 +1,5 @@
 # 🛡️ RADAR
-### Risk Aware Detection And Recognition
+### Real-Time LiDAR SLAM Navigation
 **전쟁상황 기반 자율 정찰 로봇**
 
 > TurtleBot3 Burger 기반의 자율주행 정찰 로봇으로, 실시간 SLAM과 YOLO 객체 탐지를 통합하여  
