@@ -1,5 +1,5 @@
 # 🛡️ Real-Time LiDAR SLAM Navigation
-### TurtleBot3와 LiDAR 데이터를 기반으로 실시간 SLAM 및 위치 추정을 수행한 자율주행 프로젝트
+### TurtleBot3와 LiDAR 데이터를 기반으로 실시간 SLAM 및 위치 추정 자율주행 프로젝트
 **전쟁상황 기반 자율 정찰 로봇**
 
 > TurtleBot3 Burger 기반의 자율주행 정찰 로봇으로, 실시간 SLAM과 YOLO 객체 탐지를 통합하여  
